@@ -1,4 +1,4 @@
-<img  src="https://cc-dev.ccdevprojects.com/blog/wp-content/uploads/2016/11/banner-web-development.png" />
+<img  src="https://builtin.com/sites/www.builtin.com/files/styles/og/public/full-stack-developer.jpg" />
 
 <h1 align="center">Hi 👋, I'm Ahmed Fayyaz</h1>
 <h3 align="center">A software engineer with 5+ years of experience in developing Web applications. Self- motivated, detail-oriented, and creative problem-solver. A hard working team player with experience and excellent knowledge on cutting edge up-to-date web development technologies Nodejs, Php Laravel, Vuejs seeking a web developer role in your company.Proficient in both coding and design, having experienced in all stages of a development cycle.</h3>
