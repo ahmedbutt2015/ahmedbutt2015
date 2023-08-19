@@ -7,13 +7,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedthebutt&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedthebutt" /> </p>
 
 
-- 🔭 I’m currently working on [Eccontant](eccountant.co)
+- 🔭 I’m currently working remotely with [EZAD](ezadtv.com)
 
 - 🌱 I’m currently learning **NESTJs**
 
 - 💬 Ask me about **web technologies**
 
-- 📫 How to reach me **ahmedthebutt@gmail.com**
+- 📫 How to reach me **imahmedthebutt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
