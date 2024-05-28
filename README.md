@@ -1,4 +1,4 @@
-<img  src="https://builtin.com/sites/www.builtin.com/files/styles/og/public/full-stack-developer.jpg](https://media.licdn.com/dms/image/D5616AQGFVYvFjWRX7w/profile-displaybackgroundimage-shrink_350_1400/0/1674576564805?e=1722470400&v=beta&t=rO5PoWIeRxR65vB91TWW9zHq_v4_hF_RN7BxEF_fqrQ)" />
+<img  src="https://i.pinimg.com/originals/67/51/e8/6751e887776f1f70640b57cdbea7d5d2.jpg" />
 
 <h1 align="center">Hi 👋, I'm Ahmed Fayyaz</h1>
 <h3 align="center">A software engineer with 5+ years of experience in developing Web applications. Self- motivated, detail-oriented, and creative problem-solver. A hard working team player with experience and excellent knowledge on cutting edge up-to-date web development technologies Nodejs, Php Laravel, Vuejs seeking a web developer role in your company.Proficient in both coding and design, having experienced in all stages of a development cycle.</h3>
