@@ -1,7 +1,7 @@
 <img  src="https://i.pinimg.com/originals/67/51/e8/6751e887776f1f70640b57cdbea7d5d2.jpg" />
 
 <h1 align="center">Hi 👋, I'm Ahmed Fayyaz</h1>
-<h3 align="center">A software engineer with 5+ years of experience in developing Web applications. Self- motivated, detail-oriented, and creative problem-solver. A hard working team player with experience and excellent knowledge on cutting edge up-to-date web development technologies Nodejs, Php Laravel, Vuejs seeking a web developer role in your company.Proficient in both coding and design, having experienced in all stages of a development cycle.</h3>
+<h3 align="center">A software engineer with 6+ years of experience in developing Web applications. Self- motivated, detail-oriented, and creative problem-solver. A hard working team player with experience and excellent knowledge on cutting edge up-to-date web development technologies Nodejs, Php Laravel, Vuejs, Next.js, React.js seeking a web developer role in your company.Proficient in both coding and design, having experienced in all stages of a development cycle.</h3>
 <img align="right" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761144e9e426fd388de8f086b7942e97352b1a12cf61&rid=giphy.gif&ct=g" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedthebutt&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedthebutt" /> </p>
