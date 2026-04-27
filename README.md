@@ -44,9 +44,9 @@ I build scalable web applications and AI-powered systems (RAG, agents, automatio
 
 ### 💼 Other Notable Work
 
-**Viznish — CRM Platform (Gen AI features)**
+**WIZniche — CRM Platform (Gen AI features)**
 
-- Worked on **Viznish**, a production CRM, where I designed and shipped the **Gen AI feature set** into the existing product
+- Worked on **WIZniche**, a production CRM, where I designed and shipped the **Gen AI feature set** into the existing product
 - LLM-assisted workflows, content generation, and smart insights integrated directly into the CRM flow without disrupting day-to-day usage
 - Brought together prompt design, retrieval, and structured-output validation so the AI features held up under real customer data
 
