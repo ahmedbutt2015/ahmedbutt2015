@@ -32,13 +32,23 @@ I build scalable web applications and AI-powered systems (RAG, agents, automatio
 
 ### 🔥 Highlight Project
 
-**EZAI — AI Agent Platform**  
-👉 https://ezai.io  
+**GraphOS — Service Mesh for AI Agents**  
+👉 https://github.com/ahmedbutt2015/graphos
 
-- Built a system where users create AI agents and interact with their own data  
-- Implemented **RAG pipelines** (embeddings + semantic search)  
-- Reduced hallucination using **structured prompts & validation layers**  
-- Designed **async pipelines** for document processing at scale  
+- Open-source **observability and policy layer for LangGraph** agents — TypeScript and Python at full feature parity
+- One-line wrap → **LoopGuard**, **BudgetGuard**, **MCPGuard** policies, plus a built-in OpenAI / Anthropic price table
+- **Local-first React Flow dashboard** with time-travel replay over SQLite — zero SaaS, zero telemetry leaving the machine
+- Shipped on [npm (`@graphos-io/sdk`)](https://www.npmjs.com/package/@graphos-io/sdk) and [PyPI (`graphos-io`)](https://pypi.org/project/graphos-io/); validated end-to-end by wrapping real open-source LangGraph benchmarks (`agents-from-scratch-ts`, `retrieval-agent-template`)
+
+---
+
+### 💼 Other Notable Work
+
+**Viznish — CRM Platform (Gen AI features)**
+
+- Worked on **Viznish**, a production CRM, where I designed and shipped the **Gen AI feature set** into the existing product
+- LLM-assisted workflows, content generation, and smart insights integrated directly into the CRM flow without disrupting day-to-day usage
+- Brought together prompt design, retrieval, and structured-output validation so the AI features held up under real customer data
 
 ---
 
